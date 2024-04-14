@@ -2,6 +2,8 @@
 
 ![쓱닷컴.png](assets/ssg_logo.png)
 
+<img src="assets/ssg_logo.png" alt="쓱닷컴" width="300" height="300"/>
+
 ## 1. 프로젝트 소개
 
 ### 🛒 프로젝트 개요
