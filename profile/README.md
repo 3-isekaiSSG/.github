@@ -1,6 +1,8 @@
 # 이세계 쓱닷컴
 
-<img src="https://github.com/KwanHoo/CNU_Brightling/assets/49335804/7d0ffc58-24ea-4ab8-8f05-d73fb12413c5" width="300" height="300">
+<p align="center">
+  <img alt="로고" src="https://github.com/KwanHoo/CNU_Brightling/assets/49335804/7d0ffc58-24ea-4ab8-8f05-d73fb12413c5" width="250" height="250">	
+</p>
 
 ## 1. 프로젝트 소개
 
@@ -15,7 +17,7 @@
 
 [이세계쓱닷컴](https://m.isekai-ssg.shop/)
 
-![쓱닷컴큐알.jpg](assets/QRcode.png)
+<img alt="쓱닷컴큐알" src="assets/QRcode.png" width="120" height="150">
 
 ### 💻 기획 배경
 
@@ -25,98 +27,12 @@
 
 본 프로젝트의 목표는 사용자에게 최적화된 쇼핑 경험을 제공하며, 효율적인 데이터 관리를 통해 상품 정보의 정확성과 신뢰성을 보장하는 것입니다. 또한, 직관적인 UI/UX 디자인을 통해 사용자 편의성을 극대화하고, 모든 개발 과정에서의 협업과 기술 스택의 최신성을 유지하여, 실제 업계 표준에 부합하는 프로젝트 구현을 목표로 합니다.
 
-## 2. 기능 소개
+## 2. 프로젝트 멤버
 
-### 🎈 기능 소개
-
-1. 회원가입/로그인 : 회원가입/로그인, JWT 발급, 아이디 찾기, 비밀번호 재설정, 휴대폰인증(coolSMS 사용) 기능
-2. 장바구니 : 회원/비회원 장바구니 기능. 비회원의 경우 쿠키를 발급하여 쿠키 value로 장바구니 관리.
-비회원으로 장바구니 추가후 로그인시 담아뒀던 상품 회원 장바구니로 옮겨짐
-3. 찜하기 : 단일상품, 특가, 브랜드, 카테고리 중, 소 찜하기 기능
-4. 카테고리 : 카테고리별로 상품이 보여지고, 정렬기능과 필터링 기능 사용 가능
-5. 검색 : 키워드 위주의 검색 기능
-6. 구매 : 바로구매 및 장바구니 구매를 통해 상품 구매
-7. 배송 : 배송 상태 확인
-8. 리뷰 : 구매한 상품 리뷰 기능
-
-### 🔎 화면별 기능 소개
-
-- **메인페이지**
-
-![메인페이지.PNG](assets/main.png)
-
-- **통합회원가입 및 간편회원가입**
-
-![회원가입.PNG](assets/signup1.png)
-
-통합회원가입 또는 간편회원가입을 통해 회원가입을 진행합니다.
-
-![휴대폰인증.PNG](assets/signup2.png)
-
-통합회원가입을 진행할 경우 휴대폰인증을 통해
-회원가입이 가능합니다.
-
-- **로그인**
-
-![로그인.PNG](assets/login.png)
-
-통합회원 또는 소셜회원으로 로그인을 합니다.
-
-- **회원/비회원 장바구니**
-
-![장바구니1.PNG](assets/cart1.png)
-
-비회원으로 장바구니에 상품을 담습니다.
-
-![장바구니2.PNG](assets/cart2.png)
-
-장바구니에 들어간 상품을 확인하고 로그인을 합니다.
-
-![장바구니3.PNG](assets/cart3.png)
-
-비회원으로 담은 장바구니
-상품이 로그인 후 회원의 장바구니로 옮겨집니다.
-
-- **찜하기**
-
-![카테고리찜.PNG](assets/favorite1.png)
-
-회원인 경우 자신이 좋아하는 카테고리를
-찜 할 수 있습니다.
-
-![상품찜.PNG](assets/favorite2.png)
-
-회원인 경우 자신이 좋아하는 상품을
-찜 할 수 있습니다.
-
-- **카테고리**
-
-![카테고리1.PNG](assets/category1.png)
-
-카테고리 대분류를 통해 원하는 카테고리를 선택합니다.
-
-![카테고리2.PNG](assets/category2.png)
-
-대분류를 선택하면 중분류
-카테고리가 나오게 되고
-그 중 관심있는 카테고리를
-선택합니다.
-
-![카테고리3.PNG](assets/category3.png)
-
-해당 카테고리의 상품들을
-볼 수 있습니다. 정렬과 필터링을 통해 원하는 순서로
-볼 수 있습니다.
-
-- 검색
-
-![검색1.PNG](assets/search1.png)
-
-검색 기능을 통해 본인이 원하는 상품을 검색합니다.
-
-![검색2.PNG](assets/search2.png)
-
-검색 결과로 상품리스트를 볼 수 있습니다.
+|   **Name**   |박준표|구희영|김관호|박하윤|장미림|
+| :----------: | :-----: | :-----: | :-----: | :-----: | :-----:|
+| **Position** |팀장 <br/> 프론트엔드 <br/> 백엔드|프론트엔드|백엔드|백엔드|백엔드|
+|   **Git**    |[wnsvy7203](https://github.com/wnsvy7203)|[heeyoung](https://github.com/hi9900)|[KwanHoo](https://github.com/KwanHoo)|[hyoonpark](https://github.com/hyoonpark)|[mirimy97](https://github.com/mirimy97)|
 
 ## 3. 개발 환경 및 사용 기술
 
@@ -124,32 +40,17 @@
 
 - **BE** `Spring boot(3.1.9)` **,** `IntelliJ(2023.2.5)`
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SprigBoot&logoColor=white">
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
-<img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SprigBoot&logoColor=white"> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"> <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
 
 - **FE** `TypeScript(5.1.3)`, `Visual Studio Code(1.84.2)`
 
-<img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
 
 - **공통**
 
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ### **🛠 사용한 라이브러리 및 프레임워크**
 
@@ -305,9 +206,63 @@
 		
 ```
 
-## 4. 프로젝트 멤버
+## 4. 기능 소개
 
-|   **Name**   |박준표|구희영|김관호|박하윤|장미림|
-| :----------: | :-----: | :-----: | :-----: | :-----: | :-----:|
-| **Position** |팀장 <br/> 프론트엔드 <br/> 백엔드|프론트엔드|백엔드|백엔드|백엔드|
-|   **Git**    |[wnsvy7203](https://github.com/wnsvy7203)|[heeyoung](https://github.com/hi9900)|[KwanHoo](https://github.com/KwanHoo)|[hyoonpark](https://github.com/hyoonpark)|[mirimy97](https://github.com/mirimy97)|
+### 🎈 기능 소개
+
+1. 회원가입/로그인 : 회원가입/로그인, JWT 발급, 아이디 찾기, 비밀번호 재설정, 휴대폰인증(coolSMS 사용) 기능
+2. 장바구니 : 회원/비회원 장바구니 기능. 비회원의 경우 쿠키를 발급하여 쿠키 value로 장바구니 관리.
+비회원으로 장바구니 추가후 로그인시 담아뒀던 상품 회원 장바구니로 옮겨짐
+3. 찜하기 : 단일상품, 특가, 브랜드, 카테고리 중, 소 찜하기 기능
+4. 카테고리 : 카테고리별로 상품이 보여지고, 정렬기능과 필터링 기능 사용 가능
+5. 검색 : 키워드 위주의 검색 기능
+6. 구매 : 바로구매 및 장바구니 구매를 통해 상품 구매
+7. 배송 : 배송 상태 확인
+8. 리뷰 : 구매한 상품 리뷰 기능
+
+### 🔎 화면별 기능 소개
+
+- **메인페이지**
+
+<p align="center">	
+  <img alt="메인페이지" src="assets/main.png" width="40%" height="40%">
+</p>
+
+- **통합회원가입 및 간편회원가입**
+
+| ![회원가입](assets/signup1.png) | ![휴대폰인증](assets/signup2.png) |
+|:--------------------------------:|:----------------------------------:|
+| 통합회원가입 또는 간편회원가입을<br>통해 회원가입을 진행합니다. | 통합회원가입을 진행할 경우<br>휴대폰인증을 통해<br>회원가입이 가능합니다. |
+
+
+- **로그인**
+
+<p align="center">
+  <img alt="로그인" src="assets/login.png" width="40%" height="40%">	
+</p>
+
+통합회원 또는 소셜회원으로 로그인을 합니다.
+
+- **회원/비회원 장바구니**
+
+| ![장바구니1.PNG](assets/cart1.png) | ![장바구니2.PNG](assets/cart2.png) | ![장바구니3.PNG](assets/cart3.png) |
+|:--------------------------------:|:----------------------------------:|:----------------------------------:|
+| 비회원으로 장바구니에<br>상품을 담습니다. | 장바구니에 들어간 상품을<br>확인하고 로그인을 합니다. | 비회원으로 담은 장바구니 상품이 로그인 후 회원의 장바구니로<br>옮겨집니다. |
+
+- **찜하기**
+
+| ![카테고리찜.PNG](assets/favorite1.png) | ![휴대폰인증](assets/signup2.png) |
+|:--------------------------------:|:----------------------------------:|
+| 회원인 경우 자신이 좋아하는 카테고리를<br>찜 할 수 있습니다. | 회원인 경우 자신이 좋아하는 상품을<br>찜 할 수 있습니다. |
+
+- **카테고리**
+
+| ![카테고리1.PNG](assets/category1.png) | ![카테고리2.PNG](assets/category2.png) | ![카테고리3.PNG](assets/category3.png) |
+|:--------------------------------:|:----------------------------------:|:----------------------------------:|
+| 카테고리 대분류를 통해 원하는<br>카테고리를 선택합니다. | 대분류를 선택하면 중분류<br>카테고리가 나오게 되고 그 중 관심있는 카테고리를 선택합니다. | 해당 카테고리의 상품들을<br>볼 수 있습니다. 정렬과 필터링을 통해 원하는<br>순서로 볼 수 있습니다. |
+
+- **검색**
+
+| ![검색1.PNG](assets/search1.png) | ![검색2.PNG](assets/search2.png) |
+|:--------------------------------:|:----------------------------------:|
+| 검색 기능을 통해 본인이 원하는 상품을 검색합니다. | 검색 결과로 상품리스트를 볼 수 있습니다. |
