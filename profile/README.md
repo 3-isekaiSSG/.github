@@ -1,6 +1,6 @@
 # 이세계 쓱닷컴
 
-![쓱닷컴.png](https://github.com/KwanHoo/CNU_Brightling/assets/49335804/7d0ffc58-24ea-4ab8-8f05-d73fb12413c5){: width="300" height="300"}
+<img src="https://github.com/KwanHoo/CNU_Brightling/assets/49335804/7d0ffc58-24ea-4ab8-8f05-d73fb12413c5" width="300" height="300">
 
 ## 1. 프로젝트 소개
 
