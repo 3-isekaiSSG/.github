@@ -1,7 +1,7 @@
 # 이세계 쓱닷컴
 
 <p align="center">
-  <img alt="로고" src="https://github.com/KwanHoo/CNU_Brightling/assets/49335804/7d0ffc58-24ea-4ab8-8f05-d73fb12413c5" width="250" height="250">	
+  <img alt="로고" src="https://github.com/KwanHoo/CNU_Brightling/assets/49335804/7d0ffc58-24ea-4ab8-8f05-d73fb12413c5" width="250" height="250">
 </p>
 
 ## 1. 프로젝트 소개
@@ -17,7 +17,7 @@
 
 [이세계쓱닷컴](https://m.isekai-ssg.shop/)
 
-<img alt="쓱닷컴큐알" src="assets/QRcode.png" width="120" height="150">
+<img alt="쓱닷컴큐알" src="https://github.com/3-isekaiSSG/.github/assets/122415662/2e92b912-ec4d-4211-8b5c-c171d913ed86" width="120" height="150">
 
 ### 💻 기획 배경
 
@@ -66,11 +66,11 @@
 
 - 아키텍처 구조도
 
-![아키텍처찌.png](assets/architecture.png)
+![아키텍처.png](https://github.com/3-isekaiSSG/.github/assets/122415662/e17a2e8f-fc99-4727-8d26-a32a6a22a082)
 
 - ERD
 
-![CloneSSG_v3_발표용.png](assets/ERD.png)
+![CloneSSG_v3.png](https://github.com/3-isekaiSSG/.github/assets/122415662/a697e520-05cb-49b6-8c43-6445821a3dc6)
 
 ### **🗂️** Directory 구조도
 
@@ -225,12 +225,12 @@
 - **메인페이지**
 
 <p align="center">	
-  <img alt="메인페이지" src="assets/main.png" width="40%" height="40%">
+  <img alt="메인페이지" src="https://github.com/3-isekaiSSG/.github/assets/122415662/1c17e5d7-b26c-4e39-82c3-cca632ea0cb6" width="40%" height="40%">
 </p>
 
 - **통합회원가입 및 간편회원가입**
 
-| ![회원가입](assets/signup1.png) | ![휴대폰인증](assets/signup2.png) |
+| ![회원가입](https://github.com/3-isekaiSSG/.github/assets/122415662/1be334a0-c6d4-4101-ab6e-00105cdc8af2) | ![휴대폰인증](https://github.com/3-isekaiSSG/.github/assets/122415662/c78603c9-526f-4846-a78d-d182fe8eeb4a) |
 |:--------------------------------:|:----------------------------------:|
 | 통합회원가입 또는 간편회원가입을<br>통해 회원가입을 진행합니다. | 통합회원가입을 진행할 경우<br>휴대폰인증을 통해<br>회원가입이 가능합니다. |
 
@@ -238,31 +238,31 @@
 - **로그인**
 
 <p align="center">
-  <img alt="로그인" src="assets/login.png" width="40%" height="40%">	
+  <img alt="로그인" src="https://github.com/3-isekaiSSG/.github/assets/122415662/a3422c31-61e1-4099-8f4a-869b9e65d02f" width="40%" height="40%">	
 </p>
 
 통합회원 또는 소셜회원으로 로그인을 합니다.
 
 - **회원/비회원 장바구니**
 
-| ![장바구니1.PNG](assets/cart1.png) | ![장바구니2.PNG](assets/cart2.png) | ![장바구니3.PNG](assets/cart3.png) |
+| ![장바구니1.PNG](https://github.com/3-isekaiSSG/.github/assets/122415662/71dbd1aa-a94d-404b-a922-fabea91235db) | ![장바구니2.PNG](https://github.com/3-isekaiSSG/.github/assets/122415662/1aed9b56-fedc-4810-bea2-82ac42098f64) | ![장바구니3.PNG](https://github.com/3-isekaiSSG/.github/assets/122415662/daff7cb0-6f5a-4e33-806a-7bd73a9f2eb5) |
 |:--------------------------------:|:----------------------------------:|:----------------------------------:|
 | 비회원으로 장바구니에<br>상품을 담습니다. | 장바구니에 들어간 상품을<br>확인하고 로그인을 합니다. | 비회원으로 담은 장바구니 상품이 로그인 후 회원의 장바구니로<br>옮겨집니다. |
 
 - **찜하기**
 
-| ![카테고리찜.PNG](assets/favorite1.png) | ![휴대폰인증](assets/signup2.png) |
+| ![카테고리찜.PNG](https://github.com/3-isekaiSSG/.github/assets/122415662/9104446d-2cdb-4803-9062-ef63a535c94e) | ![상품찜](https://github.com/3-isekaiSSG/.github/assets/122415662/f748415f-cd78-4c2d-8314-09580080e7a4)) |
 |:--------------------------------:|:----------------------------------:|
 | 회원인 경우 자신이 좋아하는 카테고리를<br>찜 할 수 있습니다. | 회원인 경우 자신이 좋아하는 상품을<br>찜 할 수 있습니다. |
 
 - **카테고리**
 
-| ![카테고리1.PNG](assets/category1.png) | ![카테고리2.PNG](assets/category2.png) | ![카테고리3.PNG](assets/category3.png) |
+| ![카테고리1.PNG](https://github.com/3-isekaiSSG/.github/assets/122415662/0f5377c5-3678-4c84-a66e-0c8bd659ffe7) | ![카테고리2.PNG](https://github.com/3-isekaiSSG/.github/assets/122415662/d610d7df-b11f-4760-925f-13a21bd51367) | ![카테고리3.PNG][(assets/category3.png)](https://github.com/3-isekaiSSG/.github/assets/122415662/fef35251-4153-4dc6-91c3-1427fc0e97db) |
 |:--------------------------------:|:----------------------------------:|:----------------------------------:|
 | 카테고리 대분류를 통해 원하는<br>카테고리를 선택합니다. | 대분류를 선택하면 중분류<br>카테고리가 나오게 되고 그 중 관심있는 카테고리를 선택합니다. | 해당 카테고리의 상품들을<br>볼 수 있습니다. 정렬과 필터링을 통해 원하는<br>순서로 볼 수 있습니다. |
 
 - **검색**
 
-| ![검색1.PNG](assets/search1.png) | ![검색2.PNG](assets/search2.png) |
+| ![검색1.PNG](https://github.com/3-isekaiSSG/.github/assets/122415662/18d0d7cd-e511-46a1-80d1-4dcbcf023b38) | ![검색2.PNG](https://github.com/3-isekaiSSG/.github/assets/122415662/4b820247-111b-41d7-9f48-f06702991668) |
 |:--------------------------------:|:----------------------------------:|
 | 검색 기능을 통해 본인이 원하는 상품을 검색합니다. | 검색 결과로 상품리스트를 볼 수 있습니다. |
