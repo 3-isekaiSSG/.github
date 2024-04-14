@@ -1,6 +1,6 @@
 # 이세계 쓱닷컴
 
-![쓱닷컴.png](assets/ssg_logo.png)
+![쓱닷컴.png](/assets/ssg_logo.png)
 
 ## 1. 프로젝트 소개
 
