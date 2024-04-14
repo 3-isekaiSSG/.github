@@ -13,7 +13,7 @@
 > 프로젝트 소개 : 초기 기획부터 배포까지, A부터 Z까지 전 과정을 직접 개발한 쓱닷컴 클론 프로젝트
 > 
 
-[이세게쓱닷컴](https://m.isekai-ssg.shop/)
+[이세계쓱닷컴](https://m.isekai-ssg.shop/)
 
 ![쓱닷컴큐알.jpg](assets/QRcode.png)
 
